@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "xOrls9cs6XWj/IvBil5z2QLs3RTbNsM5X5/36lL17k75BYg9k7Go9F5q9KtkRRGZErid9Iiie4pLbyMzTGP4vg==",
+  "success": true,
+  "projectFilePath": "E:\\zakizadeh pc\\edu\\c# cources 2023\\GraphQL\\GraphQL-asp.net-MVC\\Notifier\\Notifiers\\Notifiers.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ho-zakizadeh\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\ho-zakizadeh\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\ho-zakizadeh\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\ho-zakizadeh\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\ho-zakizadeh\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\ho-zakizadeh\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}

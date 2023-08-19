@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "BKJ6Du58ZxRFLf5f54tJ0+nm6dl/IjAekBdaXym/jqE=",
+  "Source": "Saga.Orchestrator",
+  "BasePath": "_content/Saga.Orchestrator",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
